@@ -1,5 +1,5 @@
 # Monitoring Shellscript (monitor.sh)
-# This script will kick off tcpdump to dump all network traffic in an easy to parse format. This will grab all relevent data and divide it into standard sized pcap files for analysis.
+# This script will kick off tcpdump to dump all network traffic in an easy to parse format. This will grab all relevant data and divide it into standard sized pcap files for analysis.
 
 # Developed by Scott J. Roberts
 
